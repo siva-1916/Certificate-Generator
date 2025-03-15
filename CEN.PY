@@ -54,9 +54,9 @@ def generate_certificates(input_excel_file, template_docx, output_dir):
 
 
 # Usage
-input_excel_file = r'C:\Users\SIVA PRASAD\OneDrive\mine\projects\CERTIFICATE GENERATOR\data.xlsx'
-template_docx = r'C:\Users\SIVA PRASAD\OneDrive\mine\projects\CERTIFICATE GENERATOR\CERTIFICATE.docx'
-output_directory = r'C:\Users\SIVA PRASAD\OneDrive\mine\projects\CERTIFICATE GENERATOR\output'
+input_excel_file = r'--- Replace with Excel File Path ---'
+template_docx = r'--- Replace with Certificate docx file ---'
+output_directory = r'--- Replace with Output Dir File Path ---'
 
 generate_certificates(input_excel_file, template_docx, output_directory)
 
